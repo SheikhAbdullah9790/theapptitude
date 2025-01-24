@@ -72,8 +72,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js" defer></script>
 <script src="<?php echo $basesurl;?>js/functions.js"></script>
 <!-- Swiper JS -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
 
 <!-- <script>
 $(document).ready(function() {

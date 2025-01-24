@@ -187,11 +187,19 @@ const resizeWindow = () => {
 };
 
 // Initialize Swiper 
-    var swiper = new Swiper(".mySwiper", {
-      effect: "cards",
-      grabCursor: true,
-    });
+    // var swiper = new Swiper(".mySwiper", {
+    //   effect: "cards",
+    //   grabCursor: true,
+    // });
 
+document.addEventListener('DOMContentLoaded', function() {
+  // Your Swiper initialization code here
+  const swiper = new Swiper('.swiper', {
+    // ... your Swiper options
+     effect: "cards",
+      grabCursor: true,
+  });
+});
 
 
 
