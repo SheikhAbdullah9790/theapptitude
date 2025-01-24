@@ -4,7 +4,7 @@
             <div class="col-md-3">
                 <div class="cntnt">
                     <img class="lozad " data-src="<?php echo $basesurl;?>images/logo.gif" alt="" src="<?php echo $basesurl;?>images/logo.gif" data-loaded="true">
-                    <p>Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod huiytrincididunt ut labore et consec adipiscing elit,</p>
+                    <p>Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod huiytr incididunt ut labore et consec adipiscing elit,</p>
                 </div>
                 
                 
@@ -17,23 +17,24 @@
             <div class="col-md-3">
                 <ul class="srvs">
                     <h4>SERVICES</h4>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">About Us</a></li>
-                    <li><a href="">Feature</a></li>
-                    <li><a href="">Slide Show</a></li>
-                    <li><a href="">Testimonial</a></li>
-                    <li><a href="">Contact Us</a></li>
+                    <li><a href="javascript:;">Mobile App Development</a></li>
+                    <li><a href="javascript:;">Game Development</a></li>
+                    <li><a href="javascript:;">Flutter App Development</a></li>
+                    <li><a href="javascript:;">React Native Development</a></li>
+                    <li><a href="javascript:;">iOS App Development</a></li>
+                    <li><a href="javascript:;">Android App Development</a></li>
                 </ul>
             </div>
             <div class="col-md-2">
                 <ul class="menu">
                     <h4>QUICK LINKS</h4>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">About Us</a></li>
-                    <li><a href="">Feature</a></li>
-                    <li><a href="">Slide Show</a></li>
-                    <li><a href="">Testimonial</a></li>
-                    <li><a href="">Contact Us</a></li>
+                    <li><a href="<?php echo $path;?>">Home</a></li>
+                    <li><a href="javascript:;">About Us</a></li>
+                    <li><a href="javascript:;">Services</a></li>
+                    <li><a href="javascript:;">Why Apptitude</a></li>
+                    <li><a href="javascript:;">Case Study</a></li>
+                    <li><a href="javascript:;">Process</a></li>
+                    <li><a href="javascript:;">Contact Us</a></li>
                 </ul>
             </div>
             <div class="col-md-4">
@@ -72,6 +73,13 @@
 <script src="<?php echo $basesurl;?>js/functions.js"></script>
 <!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      effect: "cards",
+      grabCursor: true,
+    });
+  </script>
 
 
 <!-- <script>

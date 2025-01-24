@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER['HTTP_HOST'] == "localhost") {
-$folder_name = ""; $path = 'http://localhost/theaptitude/'.$folder_name;}
+$folder_name = ""; $path = 'http://localhost/theapptitude/'.$folder_name;}
 else {
 $folder_name = ""; $path = 'http://'.$_SERVER['HTTP_HOST'].'/'.$folder_name;
 }
