@@ -24,16 +24,27 @@
 					<div class="col-md-12">
 						<h1 class="main-heading">THINK. <span class="prplclr">COLLABORATE.</span> LAUNCH.</h1>
 						<p>Apptitude specialize in creating bespoke applications with smart strategies, advanced technology, and user-friendly designs.</p>
-						<div class="vdeo">
-							<video width="100%" playsinline muted loop class="mainvideo" preload="auto" autoplay poster="#">
-								<source src="assets/images/bnrvdeonew.mp4" type="video/mp4">
-							</video>
-						</div>
+						
 					</div>
 				</div>
 			</div>
 		</section>
-		<section class="logos">
+
+		<section class="vdeo">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						
+							<video width="100%" playsinline muted loop class="mainvideo" preload="auto" autoplay poster="#">
+								<source src="assets/images/bnrvdeonew.mp4" type="video/mp4">
+							</video>
+						
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="logos sec-pad">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-12">
@@ -82,7 +93,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="sec1">
+		<section class="sec1 sec-pad">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-md-6">
@@ -731,7 +742,10 @@
 					</div>
 				</div>
 			</div>
-			<section class="cta3 sec-pad">
+			
+		</section>
+
+		<section class="cta3 sec-pad">
 				<div class="container">
 					<div class="row align-items-center blkbg">
 						<div class="col-md-6">
@@ -750,7 +764,7 @@
 					</div>
 				</div>
 			</section>
-		</section>
+			
 		<section class="cntct sec-pad">
 			<div class="container">
 				<div class="row align-items-center">
@@ -762,7 +776,9 @@
 							<svg xmlns="http://www.w3.org/2000/svg" width="259.639" height="107.938" viewBox="0 0 259.639 107.938">
 								<path id="Frame" d="M48.183,139.218c51.43,23.06,156.795,51.324,179.9-15.9,15.776-45.895-40.976-55.507-56.29-4.626s57.989,104.748,125.1,25.339m0,0-20.983-1.313m20.983,1.313-2.487,27.905" transform="translate(-42.897 -80.492)" fill="none" stroke="#8d2cff" stroke-linecap="round" stroke-width="8"/>
 							</svg>
-							
+
+
+
 						</div>
 					</div>
 					<div class="col-md-6">
