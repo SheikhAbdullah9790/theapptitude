@@ -263,8 +263,8 @@
 			</div>
 			<div class="row mt50">
 				<div class="col-md-6">
-					<div class="imge">
-						<img src="assets/images/prcssimg1.png" alt="">
+					<div class="imge ">
+						<img  src="assets/images/prcssimg1.png" alt="">
 					</div>
 				</div>
 				<div class="col-md-6">
@@ -275,10 +275,25 @@
 							<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
 						</div>
 					</div>
+					<div class="cntnt mt150">
+						<h3>IDEATE</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
+						<div class="vewbtn">
+							<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
+					<div class="cntnt mt150">
+						<h3>IDEATE</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
+						<div class="vewbtn">
+							<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
+
 	<section class="cta2 sec-pad">
 		<div class="container">
 			<div class="row">
@@ -394,7 +409,6 @@
 							</li>
 						</ul>
 					</div>
-
 					<div class="cntnt my-tabs wbp">
 						<h3>Frontend</h3>
 						<ul class="icns ">
@@ -526,7 +540,6 @@
 							</li>
 						</ul>
 					</div>
-
 					<div class="cntnt my-tabs crp">
 						<h3>React</h3>
 						<ul class="icns ">
@@ -575,7 +588,6 @@
 							</li>
 						</ul>
 					</div>
-
 					<div class="cntnt my-tabs gms">
 						<h3>Engines</h3>
 						<ul class="icns ">
@@ -624,7 +636,7 @@
 							</li>
 						</ul>
 					</div>
-		
+					
 					<div class="cntnt my-tabs db">
 						<h3>Database</h3>
 						<ul class="icns ">
@@ -670,7 +682,6 @@
 							</li>
 						</ul>
 					</div>
-
 					<div class="cntnt my-tabs cnd">
 						<h3>DevOps</h3>
 						<ul class="icns ">
@@ -817,35 +828,48 @@
 					</div>
 				</div>
 				<div class="col-md-6">
-					<div class="mySwiper">
-						<div class="bx">
-							<div class="hed">
-								<div class="imge">
-									<img src="assets/images/clnts1.png" alt="">
+					<div class="swiper mySwiper">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide bx">
+								<div class="hed">
+									<div class="imge">
+										<img src="assets/images/clnts1.png" alt="">
+									</div>
+									
+									<h5>James Adam <span>CTO of JamsosTech</span></h5>
 								</div>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 								
-								<h5>James Adam <span>CTO of JamsosTech</span></h5>
 							</div>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-							
-						</div>
-						<div class="bx">
-							<div class="hed">
-								<div class="imge">
-									<img src="assets/images/clnts1.png" alt="">
+							<div class="swiper-slide bx">
+								<div class="hed">
+									<div class="imge">
+										<img src="assets/images/clnts2.png" alt="">
+									</div>
+									
+									<h5>James Adam <span>CEO of Maradocamp</span></h5>
 								</div>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 								
-								<h5>James Adam <span>CTO of JamsosTech</span></h5>
 							</div>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-							
+							<div class="swiper-slide bx">
+								<div class="hed">
+									<div class="imge">
+										<img src="assets/images/clnts3.png" alt="">
+									</div>
+									
+									<h5>James Adam <span>Product Engineer of Techin</span></h5>
+								</div>
+								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<div class="swiper mySwiper">
+<!-- 	<div class="swiper mySwiper">
 		<div class="swiper-wrapper">
 			<div class="swiper-slide">Slide 1</div>
 			<div class="swiper-slide">Slide 2</div>
@@ -857,7 +881,7 @@
 			<div class="swiper-slide">Slide 8</div>
 			<div class="swiper-slide">Slide 9</div>
 		</div>
-	</div>
+	</div> -->
 	<section class="artcls sec-pad">
 		<div class="container">
 			<div class="row">
