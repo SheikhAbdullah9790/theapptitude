@@ -1075,12 +1075,12 @@
 				<div class="col-md-6">
 					<div class="lft">
 						<h1 class="main-heading"><span>LET’S BUILD SOMETHING</span> MEANINGFUL TOGETHER!</h1>
-						<p>Lorem Ipsum is simpl dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 						<h3>LET’S TALK</h3>
 						<svg xmlns="http://www.w3.org/2000/svg" width="259.639" height="107.938" viewBox="0 0 259.639 107.938" id="svg-path">
 							<path id="Frame" d="M48.183,139.218c51.43,23.06,156.795,51.324,179.9-15.9,15.776-45.895-40.976-55.507-56.29-4.626s57.989,104.748,125.1,25.339m0,0-20.983-1.313m20.983,1.313-2.487,27.905" transform="translate(-42.897 -80.492)" fill="none" stroke="#8d2cff" stroke-linecap="round" stroke-width="8"/>
 						</svg>
-
+						
 					</div>
 				</div>
 				<div class="col-md-6">
