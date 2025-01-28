@@ -97,23 +97,23 @@
 					<div class="col-md-6">
 						<div class="cntnt">
 							<h1 class="main-heading">WHAT WE HAVE <span>ACHIEVED</span> SO FAR..</h1>
-							<p>We are a full-service mobile app development agency with a highly-skilled team at our back, professionally handling all aspects of the app development journey. From strategy and research to design and launch, we do it all and then some.<br></br>
+							<p>We are a full-service mobile app development agency with a highly-skilled team at our back, professionally handling all aspects of the app development journey. From strategy and research to design and launch, we do it all and then some.<br><br>
 							Not only that, The Apptitude always puts the best interest of clients and customers first and guarantees unparalleled satisfaction.</p>
 							<div class="vewbtn">
 								<a href="javascript:;">View More <svg id="left">
-								<path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="#000"></path>
-							</svg></a>
+								<path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="#000"></path></svg>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="imge">
+							<img src="assets/images/sec1img.png" alt="">
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="imge">
-						<img src="assets/images/sec1img.png" alt="">
-					</div>
-				</div>
 			</div>
-		</div>
-	</section>
+		</section>
 	<section class="scces sec-pad">
 		<div class="container">
 			<div class="row">
@@ -337,58 +337,7 @@
 			</div>
 		</div>
 	</section>
-	<!-- div.wrapp -->
-	<!-- <div class="wrapp">
-					<div class="spacer"></div>
-					<section class="work">
-									<div class="work_left">
-													<div class="work_text">
-																	<div class="work_info">
-																					<div class="work_left-bl">
-																									<span class="work_num">01</span>
-																									<h2 class="title">image animated <span class="stroke">on gsap</span></h2> <a href="#" class="work_link">view more</a>
-																					</div>
-																	</div>
-																	<div class="work_info">
-																					<div class="work_left-b1">
-																									<span class="work_num">02</span>
-																									<h2 class="title">UX/UI <span class="stroke">design</span></h2>
-																									<a href="#" class="work_link">view more</a>
-																					</div>
-																	</div>
-																	<div class="work_info">
-																					<div class="work_left-b1">
-																									<span class="work_num">03</span>
-																									<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
-																					</div>
-																	</div>
-																	<div class="work_info">
-																					<div class="work_left-b1">
-																									<span class="work_num">03</span>
-																									<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
-																					</div>
-																	</div>
-													</div>
-									</div>
-									
-									<div class="work_right">
-													<div class="work_rights">
-																	<div class="work_photo">
-																					<div class="work_photo-item" title="1"> <img src="assets/images/prcssimg1.png" alt="">
-																					</div>
-																					<div class="work_photo-item" title="2"> <img src="assets/images/prcssimg2.png" alt="">
-																					</div>
-																					<div class="work_photo-item" title="3"> <img src="assets/images/prcssimg3.png" alt="">
-																					</div>
-																					<div class="work_photo-item" title="4"> <img src="assets/images/prcssimg1.png" alt="">
-																					</div>
-																	</div>
-													</div>
-									</div>
-					</section>
-					<div class="spacer"></div>
-	</div> -->
-	<!--/div.wrapp-END--->
+	
 	<section class="cta2 sec-pad">
 		<div class="container">
 			<div class="row">
