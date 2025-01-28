@@ -184,15 +184,16 @@ header ul.cntcus li a i{color:#872BFF;margin:0 10px 0 0;}
 .prcss .hed .mainbtn{}
 .prcss .lft{display:flex;flex-direction:column;justify-content:center;position:sticky;width:100%;height:100vh;top:0;height:80vh;top:10vh;"
 background:#ff6b4f;}
-.prcss .lft .imge{width:40vw;height:30vw;position:relative;}
+.prcss .lft .imge{width:100%;height:100%;position:relative;}
 .prcss .lft .imge .imgitm{position:absolute;width:100%;height:100%;cursor:pointer;border-radius:80px;overflow:hidden;}
-.prcss .lft .imge .imgitm img{width: 50%;position: absolute;border-radius: 291px;}
-.prcss .cntntwrp {margin:auto;width:80%;}
-.prcss .cntntwrp .cntnt{height:100vh;display:flex;flex-direction:column;justify-content:center;}
+.prcss .lft .imge .imgitm img{width: 70%;position: absolute;border-radius: 80px;}
+.prcss .cntntwrp {margin:auto;width:100%;}
+.prcss .cntntwrp .cntnt{height:60vh;display:flex;flex-direction:column;}
 .prcss .cntntwrp .cntnt h3{color:#FFF;font-size:50px;}
 .prcss .cntntwrp .cntnt p{margin:20px 0;}
 .prcss .cntntwrp .cntnt .vewbtn{text-align:start;}
 .prcss .cntntwrp .cntnt .vewbtn a{color:#8D2CFF;}
+
 
 
 /*.spacer{width:100%;height:50vh;background:#ddd;}

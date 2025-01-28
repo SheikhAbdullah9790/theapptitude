@@ -248,7 +248,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="prcss sec-pad work">
+	<section class="prcss sec-pad ">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -261,7 +261,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row mt50 ">
+			<div class="row mt50 work">
 				<div class="col-md-6 ">
 					<div class="lft">
 						<div class="imge">
@@ -274,11 +274,21 @@
 							<div class="imgitm" title="3">
 								<img  src="assets/images/prcssimg3.png" >
 							</div>
+							<div class="imgitm" title="4">
+								<img  src="assets/images/prcssimg1.png" >
+							</div>
+							<div class="imgitm" title="5">
+								<img  src="assets/images/prcssimg2.png" >
+							</div>
+							<div class="imgitm" title="6">
+								<img  src="assets/images/prcssimg3.png" >
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 ">
+				<div class="col-md-5 ">
 					<div class="cntntwrp">
+						
 						<div class="cntnt ">
 							<h3>IDEATE</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
@@ -286,14 +296,35 @@
 								<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
 							</div>
 						</div>
-						<div class="cntnt  mt150">
+						<div class="cntnt  ">
 							<h3>IDEATE</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
 							<div class="vewbtn">
 								<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
 							</div>
 						</div>
-						<div class="cntnt  mt150">
+						<div class="cntnt  ">
+							<h3>IDEATE</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
+							<div class="vewbtn">
+								<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
+							</div>
+						</div>
+						<div class="cntnt  ">
+							<h3>IDEATE</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
+							<div class="vewbtn">
+								<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
+							</div>
+						</div>
+						<div class="cntnt  ">
+							<h3>IDEATE</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
+							<div class="vewbtn">
+								<a href="javascript:;">Read More <i class="fa-solid fa-arrow-right"></i></a>
+							</div>
+						</div>
+						<div class="cntnt  ">
 							<h3>IDEATE</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco dolor sit amet.</p>
 							<div class="vewbtn">
@@ -308,54 +339,54 @@
 	</section>
 	<!-- div.wrapp -->
 	<!-- <div class="wrapp">
-			<div class="spacer"></div>
-			<section class="work">
-					<div class="work_left">
-							<div class="work_text">
-									<div class="work_info">
-											<div class="work_left-bl">
-													<span class="work_num">01</span>
-													<h2 class="title">image animated <span class="stroke">on gsap</span></h2> <a href="#" class="work_link">view more</a>
-											</div>
+					<div class="spacer"></div>
+					<section class="work">
+									<div class="work_left">
+													<div class="work_text">
+																	<div class="work_info">
+																					<div class="work_left-bl">
+																									<span class="work_num">01</span>
+																									<h2 class="title">image animated <span class="stroke">on gsap</span></h2> <a href="#" class="work_link">view more</a>
+																					</div>
+																	</div>
+																	<div class="work_info">
+																					<div class="work_left-b1">
+																									<span class="work_num">02</span>
+																									<h2 class="title">UX/UI <span class="stroke">design</span></h2>
+																									<a href="#" class="work_link">view more</a>
+																					</div>
+																	</div>
+																	<div class="work_info">
+																					<div class="work_left-b1">
+																									<span class="work_num">03</span>
+																									<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
+																					</div>
+																	</div>
+																	<div class="work_info">
+																					<div class="work_left-b1">
+																									<span class="work_num">03</span>
+																									<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
+																					</div>
+																	</div>
+													</div>
 									</div>
-									<div class="work_info">
-											<div class="work_left-b1">
-													<span class="work_num">02</span>
-													<h2 class="title">UX/UI <span class="stroke">design</span></h2>
-													<a href="#" class="work_link">view more</a>
-											</div>
+									
+									<div class="work_right">
+													<div class="work_rights">
+																	<div class="work_photo">
+																					<div class="work_photo-item" title="1"> <img src="assets/images/prcssimg1.png" alt="">
+																					</div>
+																					<div class="work_photo-item" title="2"> <img src="assets/images/prcssimg2.png" alt="">
+																					</div>
+																					<div class="work_photo-item" title="3"> <img src="assets/images/prcssimg3.png" alt="">
+																					</div>
+																					<div class="work_photo-item" title="4"> <img src="assets/images/prcssimg1.png" alt="">
+																					</div>
+																	</div>
+													</div>
 									</div>
-									<div class="work_info">
-											<div class="work_left-b1">
-													<span class="work_num">03</span>
-													<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
-											</div>
-									</div>
-									<div class="work_info">
-											<div class="work_left-b1">
-													<span class="work_num">03</span>
-													<h2 class="title">Web <span class="stroke">design</span></h2> <a href="#" class="work_link">view-more</a>
-											</div>
-									</div>
-							</div>
-					</div>
-					
-					<div class="work_right">
-							<div class="work_rights">
-									<div class="work_photo">
-											<div class="work_photo-item" title="1"> <img src="assets/images/prcssimg1.png" alt="">
-											</div>
-											<div class="work_photo-item" title="2"> <img src="assets/images/prcssimg2.png" alt="">
-											</div>
-											<div class="work_photo-item" title="3"> <img src="assets/images/prcssimg3.png" alt="">
-											</div>
-											<div class="work_photo-item" title="4"> <img src="assets/images/prcssimg1.png" alt="">
-											</div>
-									</div>
-							</div>
-					</div>
-			</section>
-			<div class="spacer"></div>
+					</section>
+					<div class="spacer"></div>
 	</div> -->
 	<!--/div.wrapp-END--->
 	<section class="cta2 sec-pad">
@@ -935,15 +966,15 @@
 	</section>
 	<!-- 	<div class="swiper mySwiper">
 			<div class="swiper-wrapper">
-									<div class="swiper-slide">Slide 1</div>
-									<div class="swiper-slide">Slide 2</div>
-									<div class="swiper-slide">Slide 3</div>
-									<div class="swiper-slide">Slide 4</div>
-									<div class="swiper-slide">Slide 5</div>
-									<div class="swiper-slide">Slide 6</div>
-									<div class="swiper-slide">Slide 7</div>
-									<div class="swiper-slide">Slide 8</div>
-									<div class="swiper-slide">Slide 9</div>
+											<div class="swiper-slide">Slide 1</div>
+											<div class="swiper-slide">Slide 2</div>
+											<div class="swiper-slide">Slide 3</div>
+											<div class="swiper-slide">Slide 4</div>
+											<div class="swiper-slide">Slide 5</div>
+											<div class="swiper-slide">Slide 6</div>
+											<div class="swiper-slide">Slide 7</div>
+											<div class="swiper-slide">Slide 8</div>
+											<div class="swiper-slide">Slide 9</div>
 			</div>
 	</div> -->
 	<section class="artcls sec-pad">
@@ -1080,7 +1111,6 @@
 						<svg xmlns="http://www.w3.org/2000/svg" width="259.639" height="107.938" viewBox="0 0 259.639 107.938" id="svg-path">
 							<path id="Frame" d="M48.183,139.218c51.43,23.06,156.795,51.324,179.9-15.9,15.776-45.895-40.976-55.507-56.29-4.626s57.989,104.748,125.1,25.339m0,0-20.983-1.313m20.983,1.313-2.487,27.905" transform="translate(-42.897 -80.492)" fill="none" stroke="#8d2cff" stroke-linecap="round" stroke-width="8"/>
 						</svg>
-						
 					</div>
 				</div>
 				<div class="col-md-6">

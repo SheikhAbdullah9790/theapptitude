@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // GSAP animation for clipPath effect
     const animation = gsap.to('.imgitm:not(:last-child)', {
         clipPath: "inset(0px 0px 100% 0px)",
-        stagger: 0.5,
+        stagger: 1.5,
         ease: "none"
     });
 
@@ -104,10 +104,15 @@ document.addEventListener("DOMContentLoaded", function () {
         start: 'top top',
         end: 'bottom bottom', 
         animation: animation,  // Correct reference to the animation object
-        scrub: 1
+        scrub: 0.5
     });
 });
 
+
+
+</script>
+
+<script>
 
 
 </script>
