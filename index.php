@@ -93,7 +93,6 @@
 		</section>
 		<section class="sec1 sec-pad">
 			<div class="container">
-				
 				<div class="row align-items-center">
 					<div class="col-md-6">
 						<div class="cntnt">
