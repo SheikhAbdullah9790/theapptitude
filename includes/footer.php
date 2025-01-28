@@ -74,6 +74,73 @@
 <!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" defer></script>
 
+<script>
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    'use strict';
+    gsap.registerPlugin(ScrollTrigger);
+
+    // Lenis Smooth scroll
+    let workInfoItems = document.querySelectorAll('.imgitm'); 
+    workInfoItems.forEach(function (item, index) { 
+        item.style.zIndex = workInfoItems.length - index;
+    });
+
+    gsap.set(".imgitm", { 
+        clipPath: "inset(0px 0px 0px 0px)"
+    });
+
+    // GSAP animation for clipPath effect
+    const animation = gsap.to('.imgitm:not(:last-child)', {
+        clipPath: "inset(0px 0px 100% 0px)",
+        stagger: 0.5,
+        ease: "none"
+    });
+
+    // ScrollTrigger to link animation with scroll position
+    ScrollTrigger.create({ 
+        trigger: '.work', 
+        start: 'top top',
+        end: 'bottom bottom', 
+        animation: animation,  // Correct reference to the animation object
+        scrub: 1
+    });
+});
+
+
+
+</script>
+
+<script>
+  // Wait for the DOM to load before running the animation
+  window.onload = function() {
+    // Select the path
+    const path = document.querySelector("#Frame");
+
+    // Set initial stroke-dasharray and stroke-dashoffset
+    const length = path.getTotalLength();
+    path.style.strokeDasharray = length;
+    path.style.strokeDashoffset = length;
+
+    // GSAP ScrollTrigger animation
+    gsap.registerPlugin(ScrollTrigger);
+
+    gsap.fromTo(path, 
+      { strokeDashoffset: length }, // Initial state
+      { 
+        strokeDashoffset: '0px', // Final state
+        duration: 2, // Duration of the animation
+        scrollTrigger: {
+          trigger: "#svg-path", // The element that triggers the animation
+          start: "top 80%", // When the top of the element is 80% from the top of the viewport
+          end: "top 30%", // When the top of the element is 30% from the top of the viewport
+          scrub: true // Makes the animation linked to the scroll position
+        }
+      });
+  };
+</script>
+
 
 
 <!-- <script>
